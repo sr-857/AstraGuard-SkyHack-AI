@@ -4,7 +4,6 @@
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-[![Tests](https://github.com/sr-857/AstraGuard-AI/actions/workflows/ci.yml/badge.svg)](https://github.com/sr-857/AstraGuard-AI/actions)
 [![codecov](https://codecov.io/gh/sr-857/AstraGuard-AI/graph/badge.svg?token=YOUR_TOKEN_HERE)](https://codecov.io/gh/sr-857/AstraGuard-AI)
 [![Documentation Status](https://readthedocs.org/projects/astraguard-ai/badge/?version=latest)](https://astraguard-ai.readthedocs.io/)
 
